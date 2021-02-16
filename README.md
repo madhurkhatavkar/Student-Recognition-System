@@ -1,5 +1,5 @@
 # Student-Recognition-System
-A very Simple Gui app for Face Detection with following workflow:
+A very Simple GUI app for Face Detection with following workflow:
 1. Collect Face Data 
 2. Build Face Classifier 
 3. Detect the face 
