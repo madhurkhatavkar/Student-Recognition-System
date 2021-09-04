@@ -5,7 +5,7 @@ A simple desktop application for Face Detection using OpenCV and Haar-Cascade al
 3. Detect the face 
 4. Student Verified
 
-### Requirements 
+### Requirements :
 Python packages- 
 1. opencv-python
 2. opencv-contrib-python
