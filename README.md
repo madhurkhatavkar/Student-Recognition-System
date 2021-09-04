@@ -1,5 +1,5 @@
 # Student-Recognition-System
-A simple desktop application for Face Detection using OpenCV and Haar-Cascade algorithm with following workflow:
+A simple desktop application for Face Detection using OpenCV and Haar-Cascade algorithm with following workflow :
 1. Collect Face Data 
 2. Build Face Classifier 
 3. Detect the face 
